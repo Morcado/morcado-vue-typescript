@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", ".eslintrc.cjs"],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", ".eslintrc.cjs", ".prettierrc.cjs"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
